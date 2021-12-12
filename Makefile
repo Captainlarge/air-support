@@ -1,7 +1,7 @@
-METAPLEX_PATH ?= "../metaplex"
+METAPLEX_PATH ?= "/Users/eitanpapp/Desktop/Round 2/metaplex"
 KEY ?= "/Users/skeletoncrew/solana/skull-prod.json"
-RPC_HOST ?= "https://api.devnet.solana.com/"
-DROP ?= 1
+RPC_HOST ?= "https://api.mainnet-beta.solana.com/"
+DROP ?= 5
 TYPE ?= "token"
 
 clean:
